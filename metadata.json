@@ -1,0 +1,6 @@
+{
+  "name": "Document Summary Assistant",
+  "description": "Full-stack intelligent document processing and summarization assistant with persistent archive history, search, and filtering powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
